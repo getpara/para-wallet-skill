@@ -1,6 +1,6 @@
 # Para Wallet Skill
 
-A [ClawhHub](https://clawhhub.com) Agent Skill that teaches AI agents to create blockchain wallets and sign transactions using [Para's](https://getpara.com) MPC infrastructure.
+A [ClawHub](https://clawhub.ai/) Agent Skill that helps agents create crypto wallets and sign transactions using [Para's](https://getpara.com) MPC wallet infrastructure.
 
 ## What It Does
 
